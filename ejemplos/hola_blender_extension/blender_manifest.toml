@@ -1,0 +1,9 @@
+schema_version = "1.0.0"
+id = "hola_blender_extension"
+version = "1.0.0"
+name = "Hola Blender"
+tagline = "Panel y operador de ejemplo para aprender la API"
+maintainer = "Contributors"
+type = "add-on"
+blender_version_min = "4.2.0"
+license = ["SPDX:GPL-3.0-or-later"]

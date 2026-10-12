@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Blender backups and temporary files
+*.blend1
+*.blend2
+*.blend@*
+*.blend1@
+*.blend2@
+*.tmp
+*.log
+
+# Generated extension packages and build output
+dist/
+build/
+*.zip
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local secrets/configuration
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.json
